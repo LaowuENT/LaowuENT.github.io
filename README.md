@@ -1,4 +1,6 @@
-# laowu基于Github Pages的个人博客小站
+#  Laowu基于Github Pages的个人博客小站
+
+__2022 JUN. By laowuStudio
 
 #### 致谢
 0. 这个模板是从这里 https://klovien.github.io fork 的, 感谢作者klovien。
